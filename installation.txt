@@ -1,0 +1,33 @@
+admin :
+
+id=admin@gmail.com
+password=admin
+
+
+student :
+
+id=ajay@gmail.com
+password=ajay
+
+id=amal@gmail.com
+password=amal
+
+id=aravind@gmail.com
+password=aravind
+
+id=shameem@gmail.com
+password=shameem
+
+faculty :
+
+id=baiju@gmail.com
+password=baiju
+
+id=vineesha@gmail.com
+password=vineesha
+
+id=sheeba@gmail.com
+password=sheeba
+
+id=athulya@gmail.com
+password=athulya
